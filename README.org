@@ -1,0 +1,11 @@
+* contextl
+
+ContextL is a CLOS extension for Context-oriented Programming (COP),
+and was the first language extension that explicitly supports COP when
+it was originally introduced in 2005.
+
+|---------+-----------------------------------------------|
+| source  | git:https://github.com/pcostanza/contextl.git |
+| commit  | f4fb3f5                                       |
+| systems | contextl                                      |
+|---------+-----------------------------------------------|
