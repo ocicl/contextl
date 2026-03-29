@@ -6,6 +6,6 @@ it was originally introduced in 2005.
 
 |---------+-----------------------------------------------|
 | source  | git:https://github.com/pcostanza/contextl.git |
-| commit  | 3d5fbff                                       |
+| commit  | 2d79029                                       |
 | systems | contextl                                      |
 |---------+-----------------------------------------------|
